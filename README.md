@@ -8,16 +8,6 @@ I'm a CS + Statistics & Data Science student at **UMass Amherst**, interested in
 - 💬 Ask me about: machine learning, Python, Android development, or markets.
 
 
----
-
-### 🧰 Tech I work with
-
-**Languages:** Python · Kotlin · Java · SQL
-**ML & Data:** scikit-learn · yfinance · OpenAI API
-**Mobile:** Jetpack Compose · Android SDK · Room
-**Tools:** Git · VS Code · Android Studio
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirshinde2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshinde@umass.edu) 
 
