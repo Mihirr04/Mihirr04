@@ -6,7 +6,7 @@ I'm a CS + Statistics & Data Science student at **UMass Amherst**, interested in
 - 🛠️ Building projects across **Python (ML, automation)** and **Kotlin (Android)** — from a pairs trading signal classifier to a local-first habit-tracking app.
 - 📈 Active in the UMass Investment Club and HackUMass XIV organizing team.
 - 💬 Ask me about: machine learning, Python, Android development, or markets.
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mihirshinde2006/) · mshinde@umass.edu
+
 
 ---
 
