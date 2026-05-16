@@ -3,7 +3,7 @@
 I'm a CS + Statistics & Data Science student at **UMass Amherst**, interested in **machine learning, applied statistics, and quantitative finance**.
 
 - 🔬 Currently researching **ML-driven trading signals** through UMass's Directed Reading Program, exploring the mathematical foundations of regression, gradient descent, and model evaluation.
-- 🛠️ Building projects across **Python (ML, automation)** and **Kotlin (Android)** — from a pairs trading signal classifier to a local-first habit-tracking app.
+- 🛠️ Building projects across **Python (ML, automation)** and **Kotlin (Android)**, from a pairs trading signal classifier to a local-first habit-tracking app.
 - 📈 Active in the UMass Investment Club and HackUMass XIV organizing team.
 - 💬 Ask me about: machine learning, Python, Android development, or markets.
 
